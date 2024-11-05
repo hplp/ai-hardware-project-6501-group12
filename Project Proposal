@@ -1,0 +1,35 @@
+# AI_Hardware_Project_Template
+
+## Team Name: 6501-group12
+
+## Team Members:
+- Kinson Fang
+- Jerry Xing
+- Jeanu Joo
+
+## Project Title: Dermoscopy
+
+## Project Description:
+Dermoscopy, also known as dermatoscopy, examines skin lesions with a dermatoscope. 
+A dermatoscope captures images or videos of the skin which can be used to analyze the skin diseases.
+The ultimate goal of this project is to build an edge AI model that can detect skin diseases.
+
+## Key Objectives:
+- build Edge AI model 
+- train Edge AI model to detect skin diseases using images
+- Apply Edge AI model to hardware device
+- Making Edge AI small and efficient
+- Compare accuracy and model size on skin detection
+
+## Technology Stack:
+Project Platform: Edge AI
+Hardware Platform: Google Coral Dec Board Micro
+
+
+## Expected Outcomes:
+-Edge AI model that can detect skin diseases with reasonable accuracy and model size. 
+
+## Timeline:
+-1st week: build and train AI model
+-2nd week: decrease the model size so it can be run in a small hardware
+-3rd week: test and evaluate
