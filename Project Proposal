@@ -9,18 +9,16 @@
 - Jerry Xing
 - Jeanu Joo
 
-## Project Title: Dermoscopy
+## Project Title: Dermoscopy/Skin Disease recognition powered by edge AI 
 
 ## Project Description:
-Dermoscopy, also known as dermatoscopy, examines skin lesions with a dermatoscope. 
-A dermatoscope captures images or videos of the skin which can be used to analyze the skin diseases.
-The ultimate goal of this project is to build an edge AI model that can detect skin diseases.
+The aim of this project is to develop a portable device for detecting skin diseases using AI-driven image classification models. 
+Leveraging the Google Coral Dev Board Micro, this device will enable healthcare professionals to perform quick, reliable assessments in clinical settings.
 
 ## Key Objectives:
-- build Edge AI model 
-- train Edge AI model to detect skin diseases using images
-- Apply Edge AI model to hardware device
-- Making Edge AI small and efficient
+- Optimize current AI Model to classify skin disease with relatively high accuracy 
+- Reduce model size and ensure the AI model runs efficiently on the Google Coral Dev Board Micro while maintaining high accuracy
+- Test and validate the device with a dataset of skin images to assess reliability and accuracy.
 - Compare accuracy and model size on skin detection
 
 ## Technology Stack:
@@ -32,6 +30,6 @@ Hardware Platform: Google Coral Dec Board Micro
 -Edge AI model that can detect skin diseases with reasonable accuracy and model size. 
 
 ## Timeline:
--1st week: build and train AI model
--2nd week: decrease the model size so it can be run in a small hardware
--3rd week: test and evaluate
+-1st week: find and familar with current dataset and AI model， Initial setup of Google Coral Dev Board Micro.
+-2nd week: decrease the model size and integrate the model with the Coral Dev Board and perform preliminary tests on accuracy, speed, and functionality
+-3rd week: Final Testing and Improvements: Fine-tune the model and device setup, implement any necessary adjustments, and validate the device’s accuracy with additional test data.
