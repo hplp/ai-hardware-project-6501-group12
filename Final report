@@ -70,7 +70,7 @@ Our solution integrates AI model (Resnet) and accessible hardware (Google Coral 
 
 2. **User Interaction**  
    - Instead of using a low-resolution camera, users uploaded images to ensure classification accuracy.  
-   - A small LED indicator on the Coral Dev Board flashes green for benign and red for malignant results.  
+   - A small LED indicator on the Coral Dev Board flashes green for malignant and no flash for benign results.  
 
 
 ### Challenges and Solutions  
